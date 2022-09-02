@@ -21,7 +21,8 @@ I am _passionate about_:
 - Thing 2 driving
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
+computer science
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2022/09/02
